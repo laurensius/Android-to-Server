@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Android and Arduino</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_my">myActivity</string>
+	<string name="tvServer">Silahkan pilih server</string>
+	<string name="btnConnect">Connect</string>
+	<string name="tv2">Server terpilih : </string>
+	<string name="btn0Text">Lampu off</string>
+	<string name="btn1Text">1 Lampu on</string>
+	<string name="btn2Text">2 Lampu on</string>
+	<string name="btn3Text">3 Lampu on</string>
+	<string name="btn4Text">Servo Pos 0</string>
+	<string name="btn5Text">Servo Pos 90</string>
+	<string name="btn6Text">Servo Pos 180</string>
+	<string name="btn7Text">Change Server</string>
+	<string name="btnClear">Clear</string>
+</resources>

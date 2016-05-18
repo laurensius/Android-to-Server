@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical" 
+        android:padding="5dp">
+        
+        <TextView
+        	android:id="@+id/tvWelcome"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_marginBottom="10dp"
+        	android:text="@string/tv2">
+    	</TextView>
+    	
+        <Button 
+            android:id="@+id/btn0"
+		    android:width="120dp" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="@string/btn0Text">
+        </Button>
+        
+        <Button 
+            android:id="@+id/btn1"
+		    android:width="120dp" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="@string/btn1Text">
+        </Button>
+        
+        <Button 
+            android:id="@+id/btn2"
+		    android:width="120dp" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="@string/btn2Text">
+        </Button>
+        
+        <Button 
+            android:id="@+id/btn3"
+		    android:width="120dp" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="@string/btn3Text">
+        </Button>
+        
+        <Button 
+            android:id="@+id/btn4"
+		    android:width="120dp" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="@string/btn4Text">
+        </Button>
+        
+        <Button 
+            android:id="@+id/btn5"
+		    android:width="120dp" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="@string/btn5Text">
+        </Button>
+        
+        <Button 
+            android:id="@+id/btn6"
+		    android:width="120dp" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="@string/btn6Text">
+        </Button>
+        
+        <Button 
+            android:id="@+id/btn7"
+		    android:width="120dp" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="@string/btn7Text">
+        </Button>
+        
+    </LinearLayout>"
+</ScrollView>

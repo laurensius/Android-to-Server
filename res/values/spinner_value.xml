@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerValue">
+        <item>Local Server</item>
+        <item>Cloud Server</item>
+    </string-array>
+</resources>
